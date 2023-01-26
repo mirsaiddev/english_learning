@@ -1,0 +1,706 @@
+{
+    "url": "https://ehliyetsinavihazirlik.com/index.php/12-ocak-2014-ehliyet-sorulari-coz.html",
+    "quizName": "",
+    "questionObjects": [
+        {
+            "questionCount": "Question 1.",
+            "contents": [
+                "Good _________! 51.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) name",
+                "B) morning",
+                "C) picture",
+                "D) evening"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 2.",
+            "contents": [
+                " ________! I am Bob. 52.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) What ",
+                "B) Evening",
+                "C) Name ",
+                "D) Hello"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 3.",
+            "contents": [
+                " What is your ________? 53.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) goodbye",
+                "B) how",
+                "C) okay",
+                "D) name"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 4.",
+            "contents": [
+                " Good ________! 54.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) night",
+                "B) afternoon",
+                "C) thanks",
+                "D) okay"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 5.",
+            "contents": [
+                " Hi! ___________. 55.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) I am okay ",
+                "B) I am lucky Luke",
+                "C) Good night ",
+                "D) that is a picture"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 6.",
+            "contents": [
+             " Good ____________! 56.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) hello ",
+                "B) how",
+                "C) bye ",
+                "D) meet"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 7.",
+            "contents": [
+                " _______ are you? -Fine 57.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) What",
+                "B) How",
+                "C) Who",
+                "D) Hello"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 8.",
+            "contents": [
+                " WDodo is ______friend. 58.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) I",
+                "B) that",
+                "C) my",
+                "D) this"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 9.",
+            "contents": [
+                " Good _______! 59.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) evening",
+                "B) you",
+                "C) nice",
+                "D) afternoon"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 10.",
+            "contents": [
+               " _________ to meet you. 60.jpg"           ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Good",
+                "B) Nice",
+                "C) How",
+                "D) What"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 11.",
+            "contents": [
+                " Choose the correct option that describes the image. 61.jpg"
+
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) football",
+                "B) kite",
+                "C) tennis",
+                "D) bicycle"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 12.",
+            "contents": [
+                " Choose the correct option that describes the image. 62.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) golf",
+                "B) bowling",
+                "C) basketball",
+                "D) rope"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 13.",
+            "contents": [
+                "Choose the correct option that describes the image. 63.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) rope",
+                "B) handball",
+                "C) table tennis",
+                "D) volleyball"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 14.",
+            "contents": [
+                "Choose the correct option that describes the image. 64.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) golf",
+                "B) bicycle",
+                "C) table tennis",
+                "D) football"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 15.",
+            "contents": [
+                "Choose the correct option that describes the image. 65.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) tennis",
+                "B) bowling",
+                "C) kite",
+                "D) table tennis"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 16.",
+            "contents": [
+                "Choose the correct option that describes the image. 66.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) football",
+                "B) basketball",
+                "C) bowling",
+                "D) tennis"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 17.",
+            "contents": [
+                "Choose the correct option that describes the image.? 67.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) basketball ",
+                "B) table tennis",
+                "C) golf ",
+                "D) bicycle"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 18.",
+            "contents": [
+                "Choose the correct option that describes the image. 68.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) table tennis",
+                "B) volleyball",
+                "C) football",
+                "D) tennis"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 19.",
+            "contents": [
+                "Choose the correct option that describes the image. 69.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) bicycle",
+                "B) golf",
+                "C) rope",
+                "D) basketball"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 20.",
+            "contents": [
+                "Choose the correct option that describes the image. 70.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) kite",
+                "B) football",
+                "C) bowling",
+                "D) basketball"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 21.",
+            "contents": [
+                "Choose the correct option that describes the image. 71.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) ride a bicycle",
+                "B) dance",
+                "C) slide",
+                "D) jump"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 22.",
+            "contents": [
+                "Choose the correct option that describes the image. 72.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) swing",
+                "B) run",
+                "C) fly a kite",
+                "D) jump"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 23.",
+            "contents": [
+                 "Choose the correct option that describes the image. 73.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) walk",
+                "B) skip a rope",
+                "C) jump",
+                "D) slide"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 24.",
+            "contents": [
+                 "Choose the correct option that describes the image. 74.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) walk",
+                "B) fly a kite",
+                "C) run",
+                "D) swing"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 25.",
+            "contents": [
+                 "Choose the correct option that describes the image. 75.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) sing",
+                "B) slide",
+                "C) ride a bicycle",
+                "D) fly a kite"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 26.",
+            "contents": [
+                 "Choose the correct option that describes the image. 76.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) skip a rope",
+                "B) slide",
+                "C) dance",
+                "D) sing"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 27.",
+            "contents": [
+                 "Choose the correct option that describes the image. 77.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) dance",
+                "B) jump",
+                "C) swing",
+                "D) run"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 28.",
+            "contents": [
+                "Choose the correct option that describes the image. 78.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) sing ",
+                "B) run ",
+                "C) skip a rope ",
+                "D) walk"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 29.",
+            "contents": [
+                "Choose the correct option that describes the image. 79.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) jump ",
+                "B) fly a kite ",
+                "C) sing ",
+                "D) swing"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 30.",
+            "contents": [
+                 "Choose the correct option that describes the image. 80.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) fly a kite ",
+                "B) skip a rope ",
+                "C) dance ",
+                "D) ride a bicycle"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 31.",
+            "contents": [
+                 "Choose the correct option that describes the image. 81.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) ask ",
+                "B) listen ",
+                "C) start ",
+                "D) answer"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 32.",
+            "contents": [
+                "Choose the correct option that describes the image. 82.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) point ",
+                "B) ask ",
+                "C) look ",
+                "D) spell"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 33.",
+            "contents": [
+                "Choose the correct option that describes the image. 83.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) win ",
+                "B) start ",
+                "C) look ",
+                "D) ask"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 34.",
+            "contents": [
+                "Choose the correct option that describes the image. 84.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) wait ",
+                "B) stop ",
+                "C) answer ",
+                "D) listen"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 35.",
+            "contents": [
+                "Choose the correct option that describes the image. 85.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) start ",
+                "B) play ",
+                "C) wait ",
+                "D) answer"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 36.",
+            "contents": [
+                "Choose the correct option that describes the image. 86.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) win ",
+                "B) start ",
+                "C) listen ",
+                "D) point"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 37.",
+            "contents": [
+                 "Choose the correct option that describes the image. 87.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) look ",
+                "B) win ",
+                "C) say ",
+                "D) point"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 38.",
+            "contents": [
+                "Choose the correct option that describes the image. 88.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) ask ",
+                "B) point",
+                "C) win ",
+                "D) listen"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 39.",
+            "contents": [
+                "Choose the correct option that describes the image. 89.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) answer ",
+                "B) wait",
+                "C) play ",
+                "D) start"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 40.",
+            "contents": [
+                "Choose the correct option that describes the image. 90.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) mother ",
+                "B) teacher",
+                "C) father ",
+                "D) uncle"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 41.",
+            "contents": [
+               "Choose the correct option that describes the image. 91.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) sister ",
+                "B) father",
+                "C) grandfather ",
+                "D) grandmother"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 42.",
+            "contents": [
+               "Choose the correct option that describes the image. 92.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) sister ",
+                "B) mother",
+                "C) braother ",
+                "D) aunt"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 43.",
+            "contents": [
+              "Choose the correct option that describes the image. 93.jpg?"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) brother ",
+                "B) granfather",
+                "C) uncle ",
+                "D) sister"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 44.",
+            "contents": [
+               "Choose the correct option that describes the image. 94.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) uncle ",
+                "B) father",
+                "C) grandmother ",
+                "D) grandfather"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 45.",
+            "contents": [
+                "Choose the correct option that describes the image. 95.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) grandfather ",
+                "B) grandmother",
+                "C) sister ",
+                "D) mother"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 46.",
+            "contents": [
+                "Choose the correct option that describes the image. 96.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) sister",
+                "B) uncle",
+                "C) aunt",
+                "D) mother"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 47.",
+            "contents": [
+                "Choose the correct option that describes the image. 97.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) father",
+                "B) uncle",
+                "C) brother",
+                "D) aunt"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 48.",
+            "contents": [
+                 "Choose the correct option that describes the image. 98.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) cousin",
+                "B) father",
+                "C) mother",
+                "D) grandfather"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 49.",
+            "contents": [
+                "Choose the correct option that describes the image. 99.jpg"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) doctor",
+                "B) artist",
+                "C) teacher",
+                "D) father"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 50.",
+            "contents": [
+                 "Choose the correct option that describes the image. 100.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Head",
+                "B) Eye",
+                "C) Ear",
+                "D) Lip"
+            ],
+            "correctAnswer": "B"
+        }
+    ]
+}

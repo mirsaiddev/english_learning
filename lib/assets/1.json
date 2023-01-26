@@ -1,0 +1,707 @@
+{
+    "url": "https://ehliyetsinavihazirlik.com/index.php/12-ocak-2014-ehliyet-sorulari-coz.html",
+    "quizName": "",
+    "questionObjects": [
+        {
+            "questionCount": "Question 1.",
+            "contents": [
+                "What is the number in the image? 1.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) One",
+                "B) Three",
+                "C) Ten",
+                "D) Six"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 2.",
+            "contents": [
+                " What is the number in the image? 2.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Five ",
+                "B) Six",
+                "C) Four ",
+                "D) Zero"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 3.",
+            "contents": [
+                " What is the number in the image? 3.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) One",
+                "B) Zero",
+                "C) Four",
+                "D) Three"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 4.",
+            "contents": [
+                " What is the number in the image? 4.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Ten",
+                "B) Eight",
+                "C) Five",
+                "D) Two"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 5.",
+            "contents": [
+                " What is the number in the image? 5.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Five ",
+                "B) Nine",
+                "C) Zero ",
+                "D) Six"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 6.",
+            "contents": [
+             " What is the number in the image? 6.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Seven ",
+                "B) Nine",
+                "C) Eight ",
+                "D) Six"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 7.",
+            "contents": [
+                " What is the number in the image? 7.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Zero",
+                "B) Six",
+                "C) Nine",
+                "D) One"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 8.",
+            "contents": [
+                " What is the number in the image? 8.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) One",
+                "B) Nine",
+                "C) Four",
+                "D) Two"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 9.",
+            "contents": [
+                " What is the number in the image? 9.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Two",
+                "B) Nine",
+                "C) Zero",
+                "D) Ten"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 10.",
+            "contents": [
+               " What is the number in the image? 10.png"           ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Nine",
+                "B) Six",
+                "C) Eight",
+                "D) Zero"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 11.",
+            "contents": [
+                " Choose the correct option that describes the image. 11.png"
+
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Two",
+                "B) Nine",
+                "C) Four",
+                "D) One"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 12.",
+            "contents": [
+                " Choose the correct option that describes the image. 12.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) One",
+                "B) Three",
+                "C) Two",
+                "D) Six"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 13.",
+            "contents": [
+                "Choose the correct option that describes the image. 13.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Three",
+                "B) Eight",
+                "C) Nine",
+                "D) Ten"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 14.",
+            "contents": [
+                "Choose the correct option that describes the image. 14.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Ten",
+                "B) Eight",
+                "C) Nine",
+                "D) Four"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 15.",
+            "contents": [
+                "Choose the correct option that describes the image. 15.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Six",
+                "B) Five",
+                "C) Ten",
+                "D) Zero"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 16.",
+            "contents": [
+                "Choose the correct option that describes the image. 16.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Six",
+                "B) Ten",
+                "C) Zero",
+                "D) One"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 17.",
+            "contents": [
+                "Choose the correct option that describes the image.? 17.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Ten ",
+                "B) Six",
+                "C) Seven ",
+                "D) Zero"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 18.",
+            "contents": [
+                "Choose the correct option that describes the image. 18.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Ten",
+                "B) Zero",
+                "C) Two",
+                "D) Eight"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 19.",
+            "contents": [
+                "Choose the correct option that describes the image. 19.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Nine",
+                "B) Five",
+                "C) Seven",
+                "D) One"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 20.",
+            "contents": [
+                "Choose the correct option that describes the image. 20.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) One",
+                "B) Zero",
+                "C) Six",
+                "D) Ten"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 21.",
+            "contents": [
+                "What is the color in the photo? 21.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Red",
+                "B) Green",
+                "C) Blue",
+                "D) Orange"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 22.",
+            "contents": [
+                "What is the color in the photo? 22.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Red",
+                "B) Green",
+                "C) Blue",
+                "D) Orange"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 23.",
+            "contents": [
+                 "What is the color in the photo? 23.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Orange",
+                "B) Green",
+                "C) Red",
+                "D) Purple"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 24.",
+            "contents": [
+                 "What is the color in the photo? 24.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Red",
+                "B) Green",
+                "C) Yellow",
+                "D) Pink"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 25.",
+            "contents": [
+                 "What is the color in the photo? 25.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Red",
+                "B) Yellow",
+                "C) Blue",
+                "D) Purple"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 26.",
+            "contents": [
+                 "What is the color in the photo? 26.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Red",
+                "B) Blue",
+                "C) Green",
+                "D) Orange"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 27.",
+            "contents": [
+                 "What is the color in the photo? 27.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Yellow",
+                "B) Green",
+                "C) Blue",
+                "D) Orange"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 28.",
+            "contents": [
+                "This is a/an ….? 28.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Banana ",
+                "B) Grape ",
+                "C) Apple ",
+                "D) Strawberry"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 29.",
+            "contents": [
+                "This is a/an ….? 29.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Apple ",
+                "B) Blueberry ",
+                "C) Apple ",
+                "D) Banana"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 30.",
+            "contents": [
+                 "This is a/an ….? 30.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Banana ",
+                "B) Blueberry ",
+                "C) Apple ",
+                "D) Strawberry"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 31.",
+            "contents": [
+                 "This is a/an ….? 31.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Cherry ",
+                "B) Grape ",
+                "C) Apple ",
+                "D) Watermelon"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 32.",
+            "contents": [
+                "This is a/an ….? 32.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Banana ",
+                "B) Grape ",
+                "C) Apple ",
+                "D) Strawberry"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 33.",
+            "contents": [
+                "This is a/an ….? 33.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Banana ",
+                "B) Pear ",
+                "C) Lemon ",
+                "D) Strawberry"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 34.",
+            "contents": [
+                "This is a/an ….? 34.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Banana ",
+                "B) Grape ",
+                "C) Orange ",
+                "D) Apple"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 35.",
+            "contents": [
+                "This is a/an ….? 35.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Lemon ",
+                "B) Pear ",
+                "C) Apple ",
+                "D) Blueberry"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 36.",
+            "contents": [
+                "This is a/an ….? 36.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Strawberry ",
+                "B) Grape ",
+                "C) Apple ",
+                "D) Cherry"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 37.",
+            "contents": [
+                 "This is a/an ….? 37.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Watermelon ",
+                "B) Grape ",
+                "C) Apple ",
+                "D) Pear"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 38.",
+            "contents": [
+                "What is the animal in the photo? 38.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Deer ",
+                "B) Fox",
+                "C) Cat ",
+                "D) Rabbit"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 39.",
+            "contents": [
+                "What is the animal in the photo? 39.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Leon ",
+                "B) Deer",
+                "C) Cat ",
+                "D) Rabbit"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 40.",
+            "contents": [
+                "What is the animal in the photo? 40.png" 
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Tiger ",
+                "B) Fox",
+                "C) Elephant ",
+                "D) Rabbit"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 41.",
+            "contents": [
+               "What is the animal in the photo? 41.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Deer ",
+                "B) Leon",
+                "C) Cat ",
+                "D) Fox"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 42.",
+            "contents": [
+               "What is the animal in the photo? 42.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Deer ",
+                "B) Fox",
+                "C) Leon ",
+                "D) Rabbit"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 43.",
+            "contents": [
+              "What is the animal in the photo? 43.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Deer ",
+                "B) Fox",
+                "C) Cat ",
+                "D) Rabbit"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 44.",
+            "contents": [
+               "What is the animal in the photo? 44.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Squriell ",
+                "B) Fox",
+                "C) Cat ",
+                "D) Leon"
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "questionCount": "Question 45.",
+            "contents": [
+                "What is the animal in the photo? 45.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Deer ",
+                "B) Fox",
+                "C) Cat ",
+                "D) Tiger"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 46.",
+            "contents": [
+                "Choose the correct option that describes the image. 46.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Ear",
+                "B) Arm",
+                "C) Eye",
+                "D) Hand"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 47.",
+            "contents": [
+                "Choose the correct option that describes the image. 47.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Foot",
+                "B) Arm",
+                "C) Ear",
+                "D) Hand"
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "questionCount": "Question 48.",
+            "contents": [
+                 "Choose the correct option that describes the image. 48.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Lip",
+                "B) Eye",
+                "C) Ear",
+                "D) Hand"
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "questionCount": "Question 49.",
+            "contents": [
+                "Choose the correct option that describes the image. 49.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Mouth",
+                "B) Arm",
+                "C) Ear",
+                "D) Foot"
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "questionCount": "Question 50.",
+            "contents": [
+                 "Choose the correct option that describes the image. 50.png"
+            ],
+            "questionBodyIndexIncontents": 0,
+            "answers": [
+                "A) Head",
+                "B) Hand",
+                "C) Ear",
+                "D) Lip"
+            ],
+            "correctAnswer": "B"
+        }
+    ]
+}
+
